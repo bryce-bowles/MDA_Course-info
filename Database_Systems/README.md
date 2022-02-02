@@ -1,7 +1,9 @@
 # INFO 364. Database Systems
 
 Instructor:  Howard A. Brown   Brownha2@vcu.edu 
+
 Text book: [Modern Database Management 12e](https://vcurams-my.sharepoint.com/:b:/g/personal/bowlesbe_vcu_edu/ERsaBOpXocRIimrdJUZPaWoBL6dTKuKHppGZdAxpfFONuA?e=SacFzq)
+
 Material: [Course Slides Link](https://vcurams-my.sharepoint.com/:p:/g/personal/bowlesbe_vcu_edu/EYrQZFvGVCVOobDG78mlgTQBM2hkG3Rbuma3XdZiG64ZAg?e=56LRhw)
 
 Designed to prepare students for development of systems involving databases and database management.
