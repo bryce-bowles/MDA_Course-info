@@ -13,4 +13,4 @@ Students will be able to examine a situation/problem to determine a relevant dat
 5.	Technical communications and teamwork: Students will be able to communicate analytical analysis and results effectively to nonquantitative audiences, and will develop skills in organizing, interacting and analyzing real problems as members of a team. 
 
 
-## For Projects Completed, See Repositories
+## For Projects Completed, [See Repositories](https://github.com/bryce-bowles/bryce-bowles)
