@@ -10,5 +10,5 @@ Topics: Probability, Univariate Distributions, Random Variables, Joint Distribut
  
 Course Documents: 
 *	Course Slides
-*	Course Notes
+*	[Course Notes](https://vcurams-my.sharepoint.com/:b:/g/personal/bowlesbe_vcu_edu/EVeiXeabNcBIgxL5henPbhQBUB8I4pFZxW-XWJA24nq5kQ?e=adLUG2)
  
