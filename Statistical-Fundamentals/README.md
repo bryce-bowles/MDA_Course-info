@@ -9,6 +9,6 @@ Software: R, RStudio
 Topics: Probability, Univariate Distributions, Random Variables, Joint Distributions, Exploring Data, Computational Software, The Normal Distribution, Convergence, Sampling Distributions, Hypothesis Testing, Simple Regression, Multiple Regression
  
 Course Documents: 
-*	[Course Slides](Statistical-Fundamentals/SCMA 524 Slides.pdf)
+*	[Course Slides](https://github.com/bryce-bowles/MDA_Course-info/blob/c071c27346cb098e565152c3b2361c0c29f3791c/Statistical-Fundamentals/SCMA%20524%20Slides.pdf)
 *	[Course Notes](https://vcurams-my.sharepoint.com/:b:/g/personal/bowlesbe_vcu_edu/EVeiXeabNcBIgxL5henPbhQBUB8I4pFZxW-XWJA24nq5kQ?e=adLUG2)
  
