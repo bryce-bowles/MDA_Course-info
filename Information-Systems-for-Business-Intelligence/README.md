@@ -20,7 +20,7 @@ Supervised and unsupervised clustering and the relevance of segmentation to deci
 Real world examples for cloud computing	AWS
 Final Capstone project – details will be provided in the class	ALL OF THE ABOVE
 
-#### Projects Completed: Business Intelligence (Visuals)
+#### Projects Completed: Business Intelligence (See Repositories)
 * Car Loan Negotiation: Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
 (View Model)
 * Norton Engines: Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
