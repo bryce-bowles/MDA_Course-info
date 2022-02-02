@@ -1,11 +1,11 @@
 # INFO 664 Information Systems for Business Intelligence
 
 
-Professor	Preferred Contact Channel	Secondary Contact
-Shailesh Deshpande	sdeshpande@vcu.edu (Primary)
- 804-714-5588
-	get2shailesh@gmail.com (Alt)
+Professor: Shailesh Deshpande
 
+Email: sdeshpande@vcu.edu (Primary), get2shailesh@gmail.com (Alt)
+
+Phone: 804-714-5588
 
 Good business decision making hinges on a few key ingredients – knowing how to structure and frame up a business problem, using appropriate analytic tools and making effective presentations and pitches. This course will refine your ability to clearly articulate and tackle diverse business problems ranging from the marketing, pricing, sourcing, credit risk, targeting and complex simulations. With each business case you will be introduced to a new business tool. Learn how to use it and more importantly when to use it.
 
