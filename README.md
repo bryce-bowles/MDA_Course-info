@@ -2,6 +2,8 @@
 
 Program goal: ([Graduate Bulletin link](http://bulletin.vcu.edu/graduate/school-business/supply-chain-management/decision-analytics-mda/#text))
 
+### Folders above are descriptions of each course taken and links to repositories of projects completed.
+
 The Master of Decision Analytics provides students with knowledge of the statistical, mathematical and scientific skills and experience necessary to utilize advanced methods of data analysis for business decision-making.
 Student learning goals
 Students will be able to examine a situation/problem to determine a relevant data-driven analysis to provide valuable information for decision makers and apply advanced analytical and quantitative skills to the decision problems of businesses, organizations and society. Students will be able to communicate analysis information and recommended decisions in a clear, ethical and transparent manner.
