@@ -1,4 +1,4 @@
-INFO 364. Database Systems
+# INFO 364. Database Systems
 
 Instructor:  Howard A. Brown   Brownha2@vcu.edu 
 Text book: [Modern Database Management 12e](https://vcurams-my.sharepoint.com/:b:/g/personal/bowlesbe_vcu_edu/ERsaBOpXocRIimrdJUZPaWoBL6dTKuKHppGZdAxpfFONuA?e=SacFzq)
@@ -15,6 +15,6 @@ Topics:
 *	Introduction to SQL 
 *	advanced SQL
 
-Projects Completed: Database Management (SQL/ PostgreSQL)
+## Projects Completed: Database Management (SQL/ PostgreSQL)
 Taylor’s Clothing DBMS: Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
 ([View Report](https://vcurams-my.sharepoint.com/:b:/g/personal/bowlesbe_vcu_edu/EX1VQzKuLvtPjJNUkazaglcBXSnZhM5rpZ0ywLaowLvphw?e=eRLiVy))
