@@ -36,21 +36,19 @@ Relevant book chapters are in parentheses.
 
 
 ## Projects Completed: Advanced Decision Analytics (Machine Learning: Deterministic and Probabilistic Modeling, Optimization, Simulation) 
-Federal Reserve Bank of Richmond Optimization Model:  Won Optimization model class competition issued by Dr. Brooks (M.D.A. department chair and professor). Proposed Python, Pyomo and GLPK network optimization model approach with binary variables and logical constraints to simulate reorganization of 1700 workspaces across 17 floors, while allocating for changing project teams and requirements. Provided report to IT Vice President, Christine Holzem at the Federal Reserve Bank of Richmond.
+* :star: [Federal Reserve Bank of Richmond Workspace Allocation Optimization](https://github.com/bryce-bowles/office-workspace-optimization.git):  Won Optimization model class competition issued by Dr. Brooks (M.D.A. department chair and professor). Proposed Python, Pyomo and GLPK network optimization model approach with binary variables and logical constraints to simulate reorganization of 1700 workspaces across 17 floors, while allocating for changing project teams and requirements. Provided report to IT Vice President, Christine Holzem at the Federal Reserve Bank of Richmond.
 (View Report, Python file)
 
-Optimization and Simulation Proposal for SCC Bureau of Insurance: Proposed optimization and simulation framework to benefit helpdesk request distribution and simulate future request volume. 
+* [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) : Proposed optimization and simulation framework to benefit helpdesk request distribution and simulate future request volume. 
 (View Report, Relating Article)
 
-Mobile Munchies PDF: Mobile Munchies is deciding how much of each type of juice to prepare for the week. Given the ingredients and cost, a python model using Pyomo and GLPK determined the optimal amount of each type of lemonade to produce so the profits maximized subject to the constraints. 
+* [Mobile Munchies](https://github.com/bryce-bowles/mobile-munchies): Mobile Munchies is deciding how much of each type of juice to prepare for the week. Given the ingredients and cost, a python model using Pyomo and GLPK determined the optimal amount of each type of lemonade to produce so the profits maximized subject to the constraints. 
 (View Report, Python file)
 
-Diet Problem and Manufacturing Problem: Decided how much of each of each dessert to consume per day so that taste index is maximized, and calories and grams of fat are minimized, subject to constraints (Algebraic Formulation). 
+* [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/bryce-bowles/files/7901694/HW.2.Modeling.and.Solving.LPs.pdf): Decided how much of each of each dessert to consume per day so that taste index is maximized, and calories and grams of fat are minimized, subject to constraints (Algebraic Formulation). 
 (View Report, HW_Dessert.ipynb, Manufacturing.ipynb)
 
-Red Tomato Gardening Tools and Sporting Goods Company:
-
--	Demand forecast optimization problem model using Python, Pyomo and GLPK in Python. Multifactor objectives and constraints solved using algebraic formulation to allocate and minimize cost.  
-
--	Excel Solver used to allocate how much of each product to produce so that profit is maximized
+* [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/bryce-bowles/files/7901690/HW.3.LP.Modeling.and.Sensitivity.pdf):
+     -	Demand forecast optimization problem model using Python, Pyomo and GLPK in Python. Multifactor objectives and constraints solved using algebraic formulation to allocate and minimize cost.  
+     -	Excel Solver used to allocate how much of each product to produce so that profit is maximized
 (View Report, HW_3_RedTomatoes.ipynb, HW3sporting_goods.xlsx)
