@@ -1,6 +1,7 @@
 # SCMA 645 Advanced Decision Analytics / Management Science
 
 Paul Brooks, Phone: 828-1540, Email: jpbrooks@vcu.edu
+
 Text: Albright, S.C. and Winston, W.L. Business Analytics: Data Analysis and Decision Making, 6th Edition. Cengage, 2017.
 
 Examines the formulation, analysis and solution of quantitative models for business problems. Problems addressed include the allocation of resources, making decisions and dealing with uncertainty. Applications relevant in diverse business disciplines will be investigated, and the models may include linear programming, simulation and other management science tools. Current computer solution methods will be utilized. 
