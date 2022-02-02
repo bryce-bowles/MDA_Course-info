@@ -17,4 +17,4 @@ Topics:
 
 Projects Completed: Database Management (SQL/ PostgreSQL)
 Taylor’s Clothing DBMS: Business rules, user requirements, ER diagram, entity relationships etc. (Oracle APEX)
-(View Report)
+([View Report](https://vcurams-my.sharepoint.com/:b:/g/personal/bowlesbe_vcu_edu/EX1VQzKuLvtPjJNUkazaglcBXSnZhM5rpZ0ywLaowLvphw?e=eRLiVy))
