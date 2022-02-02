@@ -11,3 +11,6 @@ Students will be able to examine a situation/problem to determine a relevant dat
 3.	Problem formulation: Students will have the knowledge, skills and practice to take nonquantitative and perhaps ill-formed problems and issues and determine ways objective analysis can bring organization and insight to them. They will be able to determine data requirements and query available databases. 
 4.	Analytics applications: Students will experience various applications of analytics in real situations. 
 5.	Technical communications and teamwork: Students will be able to communicate analytical analysis and results effectively to nonquantitative audiences, and will develop skills in organizing, interacting and analyzing real problems as members of a team. 
+
+
+## For Projects Completed, See Repositories
