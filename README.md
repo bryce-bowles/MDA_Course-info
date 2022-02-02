@@ -1,8 +1,10 @@
 # M.D.A. Program Overview 
 
-Program goal: ([Graduate Bulletin link](http://bulletin.vcu.edu/graduate/school-business/supply-chain-management/decision-analytics-mda/#text))
+[Academic Transcript](Academic-Transcript.pdf)
 
 ### Folders above are descriptions of each course taken and links to repositories of projects completed.
+
+Program goal ([Graduate Bulletin link](http://bulletin.vcu.edu/graduate/school-business/supply-chain-management/decision-analytics-mda/#text)):
 
 The Master of Decision Analytics provides students with knowledge of the statistical, mathematical and scientific skills and experience necessary to utilize advanced methods of data analysis for business decision-making.
 Student learning goals
