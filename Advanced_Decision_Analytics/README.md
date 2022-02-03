@@ -49,7 +49,7 @@ Relevant book chapters are in parentheses.
 * [Diet Problem and Manufacturing Problem](https://github.com/bryce-bowles/diet-and-manufacturing-optimization): Decided how much of each of each dessert to consume per day so that taste index is maximized, and calories and grams of fat are minimized, subject to constraints (Algebraic Formulation). 
 (View Report, HW_Dessert.ipynb, Manufacturing.ipynb)
 
-* [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/bryce-bowles/files/7901690/HW.3.LP.Modeling.and.Sensitivity.pdf):
+* [Red Tomato Gardening Tools and Sporting Goods Company](https://github.com/bryce-bowles/Red-Tomato-gardening-tools):
      -	Demand forecast optimization problem model using Python, Pyomo and GLPK in Python. Multifactor objectives and constraints solved using algebraic formulation to allocate and minimize cost.  
      -	Excel Solver used to allocate how much of each product to produce so that profit is maximized
 (View Report, HW_3_RedTomatoes.ipynb, HW3sporting_goods.xlsx)
