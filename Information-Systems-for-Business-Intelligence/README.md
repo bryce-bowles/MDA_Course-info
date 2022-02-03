@@ -21,19 +21,11 @@ Real world examples for cloud computing	AWS
 Final Capstone project – details will be provided in the class	ALL OF THE ABOVE
 
 #### Projects Completed: Business Intelligence (See Repositories)
-* Car Loan Negotiation: Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
-(View Model)
-* Norton Engines: Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
-(View Report, Excel File)
-* Music Sales: Music sales displayed in a Tableau dashboard with a variety of graphs
-(View Tableau Download)
-* Airbnb: A couple is deciding where to rent at an Airbnb in New York. Our team helped evaluate factors we thought would help them choose the best location using a Tableau dashboard story. 
-(View Tableau Download)
-* IRIS Flower Data: K-Means cluster analysis conducted using KNIME and Tableau
-(View PowerPoint)
-* Census Clustering: US Census Bureau data K-Means cluster analysis and Logistic Regression conducted using KNIME and Tableau
-(View PowerPoint)
-* Lending Club Loan Analysis: We are a group of investors, looking for the target group of people to give out a personal loan with expectations that it will be fully paid off. Used KNIME logistic regression and MS Excel data table to conclude our target group and focus factors.
-(View PowerPoint) 
-* Netflix Student Competition: Netflix data, such as Average user rating score and average rating description, visualized via Tableau dashboard 
-(View PowerPoint) 
+* [Car Loan Negotiation](https://github.com/bryce-bowles/car-loan-negotiation_goal-seek.git): Used Excel Goal seek to negotiate a car purchased with variables such as Price, APR, Years, Payment/month.
+* [Norton Engines](https://github.com/bryce-bowles/norton-engines.git): Optimization analysis solved using Excel solver, sensitivity analysis, and slack. To optimally maximize profits, Norton Engines should produce 1000 Type A engines and 500 Type B engines for a total profit of $6,600,000. 
+* [Music Sales](https://github.com/bryce-bowles/music-sales.git): Music sales displayed in a Tableau dashboard with a variety of graphs
+* [Airbnb](https://github.com/bryce-bowles/airbnb.git): A couple is deciding where to rent at an Airbnb in New York. Our team helped evaluate factors we thought would help them choose the best location using a Tableau dashboard story. 
+* [IRIS Flower Data](https://github.com/bryce-bowles/iris-flower.git): K-Means cluster analysis conducted using KNIME and Tableau
+* [Census Clustering](https://github.com/bryce-bowles/census-clustering.git): US Census Bureau data K-Means cluster analysis and Logistic Regression conducted using KNIME and Tableau
+* [Lending Club Loan Analysis](https://github.com/bryce-bowles/lending-club-loan-analysis.git) : We are a group of investors, looking for the target group of people to give out a personal loan with expectations that it will be fully paid off. Used KNIME logistic regression and MS Excel data table to conclude our target group and focus factors.
+* [Netflix Student Competition](https://github.com/bryce-bowles/netflix-student-competition.git): Netflix data, such as Average user rating score and average rating description, visualized via Tableau dashboard 
