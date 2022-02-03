@@ -1,4 +1,4 @@
-SCMA 691 Special Topic: Decision and Risk Analytics
+# SCMA 691 Special Topic: Decision and Risk Analytics
 
 Professor: Dr. Jason R. W. Merrick, jrmerric@vcu.edu, Phone: (804) 828 7483
 
