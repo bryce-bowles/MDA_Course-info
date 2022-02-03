@@ -51,5 +51,5 @@ Project Teams are central to the course design. In management situations, we sta
   * Environmental Assessment
   * Strategic Review
   * Growth through Acquisition
-* [Uber’s Failing Brand and Culture Analysis](https://github.com/bryce-bowles/uber-culture.git) Uber Technologies Inc. brand analysis research report describing brand culture and change strategy. Historical strategic context of the brand, the role culture played in the performance decline of the brand, how the culture impacted financial performance, and how they are attempting to transform and renew the culture
+* [Uber’s Failing Brand and Culture Analysis](https://github.com/bryce-bowles/uber-culture.git) Uber Technologies Inc. brand analysis research report describing brand culture and change strategy. Historical strategic context of the brand, the role culture played in the performance decline of the brand, how the culture impacted financial performance, and how they are attempting to transform and renew the culture.
 * [Lowe’s Case Assessment](https://github.com/bryce-bowles/lowes-case-assessment.git) Lowe’s industry analysis for the market space, brand positioning, environmental assessment, and strategic opportunities/dilemmas.
