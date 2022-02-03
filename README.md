@@ -1,6 +1,7 @@
 # M.D.A. Program Overview 
 
-[Academic Transcript](Academic-Transcript.pdf)
+* [Academic Transcript](Academic-Transcript.pdf)
+* [Recommendation Letters](https://github.com/bryce-bowles/MDA_Course-info/tree/main/Recommendation-Letters)
 
 ### Folders above are descriptions of each course taken and links to repositories of projects completed.
 
