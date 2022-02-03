@@ -20,3 +20,7 @@ Textbook: Making Hard Decisions with Decision Tools, 3rd Edition, 2014, Robert T
 Software: Excel, Palisade Decision Tools (Integrated set of programs for risk analysis and decision making under uncertainty. Decision Tools Suite software integrates with Microsoft Excel.)
 
 <img width="286" alt="image" src="https://user-images.githubusercontent.com/65502025/152353784-343b7c4f-da44-482c-8838-fef4b84b6f2e.png">
+
+# Projects Completed: Decision and Risk Analytics (Decision Tree and Influence Diagram)
+* [Decision Tree and Influence Diagram Scenarios](https://github.com/bryce-bowles/decision-tree-midterm.git) Probabilities, Decision Trees and Influence Diagram scenarios
+* :star: [Project Proposal Decision Tree - Career Moves](https://github.com/bryce-bowles/career-change-decision-tree.git) Career Moves: Objectives, uncertainties, influence diagram, assumptions, decision tree model, probability and cumulative comparison node chart (supporting documents – proposal, excel analysis and presentation)
