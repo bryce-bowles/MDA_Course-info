@@ -2,6 +2,7 @@
 
 * [Academic Transcript](Academic-Transcript.pdf)
 * [Recommendation Letters](https://github.com/bryce-bowles/MDA_Course-info/tree/main/Recommendation-Letters)
+* [Statement of Intent](https://github.com/bryce-bowles/MDA_Course-info/blob/ba6cc7d0035d19d8db8c3b8d537e159199c83156/Statement%20of%20Intent%20Final.pdf)
 
 ### Folders above are descriptions of each course taken and links to repositories of projects completed.
 
