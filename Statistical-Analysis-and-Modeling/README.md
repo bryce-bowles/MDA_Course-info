@@ -24,7 +24,7 @@ Data Visualization in Tableau, Confidence Intervals, Hypothesis Testing, XLSTAT 
 (View Report)
 
 Other models using .R and R-Studio
-*	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) 
+*	[TSPlots.R](https://github.com/bryce-bowles/ts-plots.R.git) Time Series analysis concepts using examples in r. Multiple data sets were used to demonstrate reading in data, filtering, date conversion, plotting (autoplot, gg_season, gg_subseries, GGalley), seasonality, cross correlation, autocorrelation, ACF, lag, white noise etc.
 *	[TSRegression.R](https://github.com/bryce-bowles/ts-regression.R.git) 
 *	[TSDecomposition.R](https://github.com/bryce-bowles/ts-decomposition.R.git)
 *	[ExponentialSmoothing.R](https://github.com/bryce-bowles/ts-exponential-smoothing.git) 
