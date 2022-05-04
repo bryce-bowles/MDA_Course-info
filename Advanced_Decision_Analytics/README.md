@@ -40,5 +40,5 @@ Relevant book chapters are in parentheses.
 * :star: [Federal Reserve Bank of Richmond Workspace Allocation Optimization](https://github.com/bryce-bowles/office-workspace-optimization.git):  Won Optimization model class competition issued by Dr. Brooks (M.D.A. department chair and professor). Proposed Python, Pyomo and GLPK network optimization model approach with binary variables and logical constraints to simulate reorganization of 1700 workspaces across 17 floors, while allocating for changing project teams and requirements. Provided report to IT Vice President, Christine Holzem at the Federal Reserve Bank of Richmond.
 (View Report, Python file)
 
-* [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) : Proposed optimization and simulation framework to benefit helpdesk request distribution and simulate future request volume. 
+* [Optimization and Simulation Proposal for SCC Bureau of Insurance](https://github.com/bryce-bowles/helpdesk-optimization-proposal.git) : Proposed optimization and simulation framework to benefit helpdesk request distribution and simulate future request volume.  
 (View Report, Relating Article)
