@@ -16,5 +16,5 @@ Chapter 4 Applications of the Derivative: 4.1 Maxima and Minima, 4.2 Mean Value 
 Chapter 5 Integration: 5.1 Approximating Areas under Curves, 5.2 Definite Integrals, 5.3 Fundamental Theorem of Calculus, 5.4 Working with Integrals, 5.5 Substitution Rule. Cornerstone of calculus because it explains the relationship between the two processes of calculus: differentiation and integration. We begin by explaining why finding the area of regions bounded by the graphs of functions is such an important problem in calculus. Then you will see how antiderivatives lead to definite integrals, which are used to solve the area problem. You will also see the remarkable connection between derivatives and integrals, which is expressed in the Fundamental Theorem of Calculus. Develop key properties of definite integrals, investigate a few of their many applications, and present the first of several powerful techniques for evaluating definite integrals. 
 
 ## Test Material: 
-[Course Final Exam](https://vcurams-my.sharepoint.com/:b:/g/personal/bowlesbe_vcu_edu/EX-nABKKeQVPooqXImxMJOkBPYl6Cg5zclHUu-1f6DMCmQ?e=15qkUb)
+[Course Sample Work](Calculus/Samplework.pdf)
 
