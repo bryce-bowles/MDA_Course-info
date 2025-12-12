@@ -32,7 +32,7 @@ The Honor Society of Phi Kappa Phi, the nation’s oldest, most selective, and m
 
 ----
 ## Projects Completed
-**Projects tagged with :star: are my personal favorites, do check them out!**
+
 
 </div> 
 <br/> 
