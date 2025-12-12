@@ -1,6 +1,5 @@
 # M.D.A. Program Overview 
 
-* [Academic Transcript](Academic-Transcript.pdf)
 * [Academic Portfolio](https://github.com/bryce-bowles/bryce-bowles/blob/main/Bryce_Bowles_Academic-Portfolio.pdf) (for recruiters)
 * [Recommendation Letters](https://github.com/bryce-bowles/MDA_Course-info/tree/main/Recommendation-Letters)
 * [Statement of Intent](https://github.com/bryce-bowles/MDA_Course-info/blob/ba6cc7d0035d19d8db8c3b8d537e159199c83156/Statement%20of%20Intent%20Final.pdf)
